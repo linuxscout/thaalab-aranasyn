@@ -1,0 +1,6 @@
+CodernityDB==0.4.2
+libqutrub>=1.2.1
+naftawayh>=0.3
+pyarabic>=0.6.4
+qalsadi>=0.3
+

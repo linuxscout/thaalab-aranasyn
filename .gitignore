@@ -1,0 +1,9 @@
+*.pyc
+tests/output/*
+tests/samples/*
+/doc/Kalmasoft - Part of Speech Tagset.htm
+/doc/Kalmasoft - Part of Speech Tagset_files/bootstrap.css
+/doc/Kalmasoft - Part of Speech Tagset_files/bootstrap.js
+/doc/Kalmasoft - Part of Speech Tagset_files/jquery.js
+/doc/Kalmasoft - Part of Speech Tagset_files/kalmastyle.css
+/doc/Kalmasoft - Part of Speech Tagset_files/minilogo.png
