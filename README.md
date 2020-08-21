@@ -1,3 +1,4 @@
+This repository is out of date, it's replaced by [Sylajone](https://github.com/linuxscout/sylajone-arabic-syntax)
 # ثعلب: التحليل النحوي للنص العربية
 ## Thaalab-ArAnaSyn: Arabic Syntaxical Analysis 
 
